@@ -5,7 +5,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2021-09-01",
-      "name": "Santosh8459iouilo",
+      "name": "santosh8459iouilo",
       "location": "westus2",
       "sku": {
         "name": "Standard_LRS"
